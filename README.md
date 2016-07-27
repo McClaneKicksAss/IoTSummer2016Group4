@@ -16,7 +16,7 @@ To run index.html assets folder has to be in same directory.
 * Maven 3 or higher (<http://maven.apache.org/>)
 * Eclipse (<https://eclipse.org/>)
 
-Running
+Usage & Running
 ======
 To run, download and implement the project file into eclipse, then use eclipse to compile main.java and build index.html on a web browser.
 
