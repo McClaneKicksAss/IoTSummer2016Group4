@@ -20,3 +20,8 @@ Running
 ======
 To run, download and implement the project file into eclipse, then use eclipse to compile main.java and build index.html on a web browser.
 
+Contributors
+======
+Markus Urbs, Carla Douw, Alina Bos, Jesse Simon, Anjeleo Villarruz
+
+@UOIT Internet of Things 2016 Project directed by Dennis Pfisterer
