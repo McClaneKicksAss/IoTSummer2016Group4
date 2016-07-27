@@ -1,6 +1,8 @@
-![alt tag](http://i.imgur.com/rkejgax.png)
+
 
 # IoTSummer2016Group4
+
+![alt tag](http://i.imgur.com/rkejgax.png)
 
 ## Project Weather Trip Finder
 
