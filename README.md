@@ -20,4 +20,3 @@ Running
 ======
 To run, download and implement the project file into eclipse, then use eclipse to compile main.java and build index.html on a web browser.
 
-Also hosted on personal website: http://www.anj.fyi/map
