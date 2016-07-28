@@ -34,4 +34,4 @@ Contributors
 ======
 Markus Urbs, Carla Douw, Alina Bos, Jesse Simon, Anjeleo Villarruz
 
-@UOIT Internet of Things 2016 Project directed by Dennis Pfisterer
+@UOIT Internet of Things 2016 Project directed by professor Dennis Pfisterer
