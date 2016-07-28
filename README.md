@@ -20,7 +20,15 @@ To run index.html assets folder has to be in same directory.
 
 Usage & Running
 ======
-To run, download the zip file and unzip to a directory. Install Node.js and install Bower using 'npm install -g'. Incorporate bower into the directory file containing the webroot folder. Implement the project file into eclipse, then use eclipse to compile main.java then type http://localhost:8080 on a web browser to see the map results.
+To run, download the zip file and unzip to a directory. 
+
+Install Node.js and install Bower using 'npm install -g'. 
+
+Incorporate bower into the directory file containing the webroot folder. 
+
+Implement the project file into eclipse, then use eclipse to compile main.java.
+
+Type http://localhost:8080 on a web browser to see the map results.
 
 Contributors
 ======
