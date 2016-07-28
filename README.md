@@ -18,7 +18,7 @@ To run index.html assets folder has to be in same directory.
 
 Usage & Running
 ======
-To run, download and implement the project file into eclipse, then use eclipse to compile main.java and build index.html on a web browser.
+To run, download the zip file and unzip to a directory. Implement the project file into eclipse, then use eclipse to compile main.java and type http://localhost:8080 on a web browser to see the map results.
 
 Contributors
 ======
