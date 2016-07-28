@@ -4,9 +4,12 @@
 
 ![alt tag](http://i.imgur.com/rkejgax.png)
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=T6qPhB1EPBE&feature=youtu.be)
+
 ## Project Weather Trip Finder
 
 Use in order to find whether the weather is satisfactory using Spark and OpenStreetMap API
+
 
 Requirements
 ======
