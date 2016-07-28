@@ -15,10 +15,12 @@ To run index.html assets folder has to be in same directory.
 * Java 8 or higher (<http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>)
 * Maven 3 or higher (<http://maven.apache.org/>)
 * Eclipse (<https://eclipse.org/>)
+* Bower (<https://bower.io/>)
+* Node.js (<https://nodejs.org/>)
 
 Usage & Running
 ======
-To run, download the zip file and unzip to a directory. Implement the project file into eclipse, then use eclipse to compile main.java and type http://localhost:8080 on a web browser to see the map results.
+To run, download the zip file and unzip to a directory. Install Node.js and install Bower using 'npm install -g'. Incorporate bower into the directory file containing the webroot folder. Implement the project file into eclipse, then use eclipse to compile main.java then type http://localhost:8080 on a web browser to see the map results.
 
 Contributors
 ======
