@@ -4,7 +4,7 @@
 
 ![alt tag](http://i.imgur.com/rkejgax.png)
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=T6qPhB1EPBE&feature=youtu.be)
+[![ScreenShot](http://i.imgur.com/QDXwzer.png)](https://www.youtube.com/watch?v=T6qPhB1EPBE&feature=youtu.be)
 
 ## Project Weather Trip Finder
 
