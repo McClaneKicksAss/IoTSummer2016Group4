@@ -60,9 +60,7 @@
 					attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 				}).addTo(map);
 	        
-	        L.marker(uoitCoordinates).addTo(map)
-							.bindPopup('Here I was<br> programmed')
-							.openPopup();
+	        
 				
 				
 			// Optional: adding further markers to the map			
@@ -89,11 +87,18 @@
 			if (xhttp.readyState == 4 && xhttp.status == 200) {
 				console.log(xhttp.responseText);
 				
+				var smileyIcon = L.icon({
+			iconUrl: 'http://i.imgur.com/urqSMI9.png',
+			iconSize: [30, 30]
+			
+			});
 				
-				
-				L.marker([e.latlng.lat, e.latlng.lng]).addTo(map)
+				L.marker([e.latlng.lat, e.latlng.lng], {icon:smileyIcon}).addTo(map)
 							.bindPopup('Here I was<br> programmed')
 							.openPopup(); 
+				
+			
+
 			} 
 		};
 		
@@ -120,16 +125,13 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">Start Bootstrap</a>
+				<a class="navbar-brand" href="#">Home</a>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
 					<li>
-						<a href="#">Hello World</a>
-					</li>
-					<li>
-						<a href="#">Something else</a>
+						<a href="#">Search</a>
 					</li>
 					<li>
 						<a href="#">Contact</a>
